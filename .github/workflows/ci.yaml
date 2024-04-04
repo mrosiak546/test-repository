@@ -20,5 +20,5 @@ jobs:
           distribution: "adopt"
       - name: Verify Java installation
         run: ./gradlew clean test
-
+        
 
